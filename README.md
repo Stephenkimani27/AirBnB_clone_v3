@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Adebayo Samuel - [Github](https://github.com/Adebayo-S)
+stephen kimani - [Github](https://github.com/Stephenkimani27)
 
 ## License
 Public Domain. No copy write protection. 
